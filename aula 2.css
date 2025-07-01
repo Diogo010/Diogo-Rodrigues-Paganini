@@ -1,0 +1,26 @@
+
+body{
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    font-family:'Fira Sans';
+    font-weight: bold;
+}
+
+header{
+    font-size: large;
+    padding: 50px;
+    background-color: rgb(193, 3, 41);
+}
+
+.navbar ul li a {
+    display: inline-block;
+    
+}
+footer{
+    background-color: dimgray;
+    text-align: center;
+    padding: 50px;
+}
+
+
